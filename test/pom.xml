@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.ibissource</groupId>
 		<artifactId>ibis-adapterframework-parent</artifactId>
-		<version>${revision}</version>
+		<version>7.8</version>
 	</parent>
 
 	<artifactId>ibis-adapterframework-test</artifactId>

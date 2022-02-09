@@ -3,7 +3,7 @@
 
 	<groupId>org.ibissource</groupId>
 	<artifactId>ibis-adapterframework-parent</artifactId>
-	<version>${revision}</version>
+	<version>7.8</version>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -596,7 +596,7 @@
 		<url>https://github.com/ibissource/iaf</url>
 		<connection>scm:git:https://github.com/ibissource/iaf.git</connection>
 		<developerConnection>scm:git:https://github.com/ibissource/iaf.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v7.8</tag>
 	</scm>
 
 	<profiles>
